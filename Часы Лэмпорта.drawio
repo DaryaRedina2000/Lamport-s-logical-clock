@@ -1,17 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2023-11-13T12:18:59.583Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="fwG2hckUPUh-AenCLWYb" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-13T12:25:53.087Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="HcY8EZl-PfFe5hLn93mO" version="22.1.0" type="github">
   <diagram name="Страница — 1" id="NMWHRkzdmEGa4B4FHmXb">
-    <mxGraphModel dx="745" dy="849" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1466" dy="656" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="l00xoZI11uzpc79A4xIt-2" value="&lt;table style=&quot;border-collapse:&lt;br/&gt; collapse;width:48pt&quot; width=&quot;64&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;height:14.5pt&quot; height=&quot;19&quot;&gt;&lt;br/&gt;  &lt;td style=&quot;height:14.5pt;width:48pt&quot; width=&quot;64&quot; height=&quot;19&quot;&gt;ул. Усачёва, д.35,&lt;br/&gt;  стр.1&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="26" width="126" height="30" as="geometry" />
+        <mxCell id="l00xoZI11uzpc79A4xIt-2" value="Гипермаркет 1 &lt;br&gt;ул. Усачёва, д.35" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-211" y="32" width="132" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="l00xoZI11uzpc79A4xIt-3" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-246" y="153" width="60" height="30" as="geometry" />
+        <mxCell id="l00xoZI11uzpc79A4xIt-3" value="Гипермаркет 2 &lt;br&gt;ул. Гарибальди, д. 4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-246" y="153" width="189" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="l00xoZI11uzpc79A4xIt-4" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-246" y="301" width="60" height="30" as="geometry" />
+        <mxCell id="l00xoZI11uzpc79A4xIt-4" value="Гипермаркет 3 &lt;br&gt;пр-кт Ленинский, 123, В" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-246" y="301" width="225" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l00xoZI11uzpc79A4xIt-6" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="l00xoZI11uzpc79A4xIt-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-94" y="225" as="sourcePoint" />
+            <mxPoint x="787" y="59" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l00xoZI11uzpc79A4xIt-8" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="l00xoZI11uzpc79A4xIt-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-57" y="181.57" as="sourcePoint" />
+            <mxPoint x="803" y="181.57" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l00xoZI11uzpc79A4xIt-10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-47" y="342.43" as="sourcePoint" />
+            <mxPoint x="813" y="341" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
